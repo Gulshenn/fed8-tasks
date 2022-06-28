@@ -1,0 +1,38 @@
+div{
+    width: 583px;
+    height: 160px;
+    margin-bottom:16px;
+}
+.lightgreen{
+    background-color: #5DAD87;
+}
+.gray1{
+    background-color:#C4C4C4;
+    position:fixed;
+    z-index:1;
+    left:349px;
+    font-size:48px;
+    text-align:center;
+    width: 135px;
+    height: 62px;
+}
+.red{
+    background-color:#BF1B1B;
+}
+.green{
+    background-color:#48B83E;
+    position:relative;
+    left:76px;
+}
+.gray2{
+    position:relative;
+    background-color: #C4C4C4;
+}
+.blue{
+    position:absolute;
+    left:25px;
+    top:20px;
+    background-color: blue;
+    width: 135px;
+    height: 62px;
+}
